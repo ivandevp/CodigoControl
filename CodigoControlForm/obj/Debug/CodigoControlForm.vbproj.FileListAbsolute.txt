@@ -1,0 +1,10 @@
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\bin\Debug\CodigoControlForm.exe.config
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\bin\Debug\CodigoControlForm.exe
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\bin\Debug\CodigoControlForm.pdb
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\bin\Debug\CodigoControlForm.xml
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\obj\Debug\CodigoControlForm.frmMain.resources
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\obj\Debug\CodigoControlForm.Resources.resources
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\obj\Debug\CodigoControlForm.vbproj.GenerateResource.Cache
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\obj\Debug\CodigoControlForm.exe
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\obj\Debug\CodigoControlForm.xml
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControlForm\obj\Debug\CodigoControlForm.pdb

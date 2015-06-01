@@ -1,0 +1,9 @@
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\bin\Debug\CodigoControl.exe.config
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.Resources.resources
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.vbproj.GenerateResource.Cache
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\bin\Debug\CodigoControl.exe
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\bin\Debug\CodigoControl.pdb
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\bin\Debug\CodigoControl.xml
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.exe
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.xml
+c:\users\enrique\documents\visual studio 2013\Projects\CodigoControl\CodigoControl\obj\Debug\CodigoControl.pdb
